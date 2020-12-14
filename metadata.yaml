@@ -1,0 +1,26 @@
+_repo: War-s-Embers-and-Other-Verses_63882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gurney, Ivor
+    birthdate: 1890
+    deathdate: 1937
+    gutenberg_agent_id: '52649'
+    url: http://www.gutenberg.org/2009/agents/52649
+    wikipedia: https://en.wikipedia.org/wiki/Ivor_Gurney
+description: ''
+gutenberg_issued: '2020-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63882'
+  lccn: '19013663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- GITenberg
+title: War's Embers, and Other Verses
+url: http://www.gutenberg.org/ebooks/63882
