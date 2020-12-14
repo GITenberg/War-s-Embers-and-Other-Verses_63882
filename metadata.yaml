@@ -1,5 +1,8 @@
 _repo: War-s-Embers-and-Other-Verses_63882
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63882-h/images/cover.jpg
 creator:
   author:
     agent_name: Gurney, Ivor
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52649
     wikipedia: https://en.wikipedia.org/wiki/Ivor_Gurney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63882#War-s-Embers-and-Other-Verses
 gutenberg_issued: '2020-11-26'
 gutenberg_type: Text
 identifiers:
